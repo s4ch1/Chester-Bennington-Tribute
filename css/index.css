@@ -85,3 +85,15 @@ a{
 a:hover{
     color: #60BFA4;
 }
+
+@media only screen and (max-width: 600px) {
+    h1{
+        font-size: 30px;
+    }
+    footer,figcaption{
+        font-size: 10px;
+    }
+    #brief, #descriptive{
+        font-size: 12px;
+    }
+}
