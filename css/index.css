@@ -96,4 +96,15 @@ a:hover{
     #brief, #descriptive{
         font-size: 12px;
     }
+    #brief{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 10px;
+    width: 80%;
+    }
+    #descriptive{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    }
 }
